@@ -32,6 +32,20 @@
         length="1159958"
         type="application/octet-stream" />
 </item>
+                    <item>
+    <title>Version 1.0.2</title>
+    <pubDate>Sun, 22 Mar 2026 19:07:58 +0000</pubDate>
+    <sparkle:version>1.0.2</sparkle:version>
+    <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/Lucidiac/stupidscroll-releases/releases/download/v1.0.2/StupidScroll-1.0.2-sparkle.dmg"
+        sparkle:version="1.0.2"
+        sparkle:shortVersionString="1.0.2"
+        sparkle:edSignature="x/cF3egh81p6vosiO/ppUWQ8O74QKQgwbEmnu+upU9ySzDBfhOzqWrJO7c1Ik0dEiQoLgWtjJ2dsRS86U+boBQ=="
+        length="1159966"
+        type="application/octet-stream" />
+</item>
             <!-- APPCAST_MARKER -->
     </channel>
 </rss>
